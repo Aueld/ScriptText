@@ -1,1 +1,3 @@
 # ScriptText
+
+CSV Text Manager
